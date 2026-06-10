@@ -1,17 +1,17 @@
-#Sistema FSM — Gestión de Instalaciones y Monitoreo Técnico
+## Sistema FSM — Gestión de Instalaciones y Monitoreo Técnico
 
 > **Proyecto de Ingeniería de Software I & II — Universidad Andrés Bello (UNAB)**  
 > Grupo 3 · Sección · Profesor: Paulo Quinsacara Jofré
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 Sistema de **Field Service Management (FSM)** desarrollado para **FiNet Limitada** y **Cable Mágico Litoral**, empresas de telecomunicaciones por fibra óptica. El sistema centraliza y digitaliza la operación de órdenes de trabajo, el monitoreo de red en tiempo real y la gestión de clientes e inventario.
 
 ---
 
-## 👥 Equipo de Desarrollo — Grupo 3
+## Equipo de Desarrollo — Grupo 3
 
 | Nombre |
 |--------|
@@ -24,7 +24,7 @@ Sistema de **Field Service Management (FSM)** desarrollado para **FiNet Limitada
 
 ---
 
-## 🏗️ Stack Tecnológico
+## Stack Tecnológico
 
 | Capa | Tecnología |
 |------|------------|
@@ -39,7 +39,7 @@ Sistema de **Field Service Management (FSM)** desarrollado para **FiNet Limitada
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 📦 Proyecto Ing. de Software - Grupo 3
@@ -57,6 +57,6 @@ Sistema de **Field Service Management (FSM)** desarrollado para **FiNet Limitada
 ```
 
 
-## 📄 Licencia
+## Licencia
 
 Proyecto académico — Universidad Andrés Bello · Ingeniería de Software I & II · 2025–2026
