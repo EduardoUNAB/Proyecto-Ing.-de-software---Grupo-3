@@ -1,4 +1,4 @@
-# 🛠️ Sistema FSM — Gestión de Instalaciones y Monitoreo Técnico
+#Sistema FSM — Gestión de Instalaciones y Monitoreo Técnico
 
 > **Proyecto de Ingeniería de Software I & II — Universidad Andrés Bello (UNAB)**  
 > Grupo 3 · Sección · Profesor: Paulo Quinsacara Jofré
