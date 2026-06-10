@@ -1,0 +1,262 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
+  <diagram name="Página-1" id="WISRJC-Qi5Bzs9fTrItz">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Técnico" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="V_Terreno" vertex="1">
+          <mxGeometry height="40" width="100" x="195" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_AuthGuard" vertex="1">
+          <mxGeometry height="40" width="108" x="341" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_OTController" vertex="1">
+          <mxGeometry height="40" width="132" x="479" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_PostgreSQL" vertex="1">
+          <mxGeometry height="40" width="116" x="637" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="orden_trabajo" vertex="1">
+          <mxGeometry height="40" width="124" x="783" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="evidencia_foto" vertex="1">
+          <mxGeometry height="40" width="132" x="929" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="uso_material_ot" vertex="1">
+          <mxGeometry height="40" width="140" x="1075" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="llamada_cortes" vertex="1">
+          <mxGeometry height="40" width="132" x="1229" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="categoria_falla" vertex="1">
+          <mxGeometry height="40" width="140" x="1375" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="1020" as="sourcePoint" />
+            <mxPoint x="95" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="1020" as="sourcePoint" />
+            <mxPoint x="245" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-13" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="1020" as="sourcePoint" />
+            <mxPoint x="395" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-14" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="1020" as="sourcePoint" />
+            <mxPoint x="545" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-15" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="1020" as="sourcePoint" />
+            <mxPoint x="695" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-16" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="1020" as="sourcePoint" />
+            <mxPoint x="845" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-17" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="1020" as="sourcePoint" />
+            <mxPoint x="995" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-18" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="1020" as="sourcePoint" />
+            <mxPoint x="1145" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-19" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="1020" as="sourcePoint" />
+            <mxPoint x="1295" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-20" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1445" y="1020" as="sourcePoint" />
+            <mxPoint x="1445" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="240" as="sourcePoint" />
+            <mxPoint x="245" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Selecciona OT para ver historial&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="110" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="280" as="sourcePoint" />
+            <mxPoint x="395" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Verifica JWT + rol&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="265" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="320" as="sourcePoint" />
+            <mxPoint x="245" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Autorizado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="265" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="360" as="sourcePoint" />
+            <mxPoint x="545" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;GET /ordenes/historial-fallas/:id_cliente&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="415" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="400" as="sourcePoint" />
+            <mxPoint x="695" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Consulta fallas cliente&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="565" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="440" as="sourcePoint" />
+            <mxPoint x="845" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SELECT OT REPARACION WHERE id_cliente LIMIT 20&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="715" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="480" as="sourcePoint" />
+            <mxPoint x="695" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Historial OT reparación&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="715" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="520" as="sourcePoint" />
+            <mxPoint x="995" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SELECT fotos por OT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="865" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="560" as="sourcePoint" />
+            <mxPoint x="695" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;URLs fotos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="715" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-39" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="600" as="sourcePoint" />
+            <mxPoint x="1145" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SELECT materiales por OT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="1015" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="640" as="sourcePoint" />
+            <mxPoint x="695" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Materiales usados&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="715" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-43" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="680" as="sourcePoint" />
+            <mxPoint x="1295" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SELECT resultado llamada por OT&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="1165" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-45" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295" y="720" as="sourcePoint" />
+            <mxPoint x="695" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Resultados llamadas&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="715" y="702" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="760" as="sourcePoint" />
+            <mxPoint x="1445" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SELECT categoría más frecuente&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="1315" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-49" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1445" y="800" as="sourcePoint" />
+            <mxPoint x="695" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Categoría frecuente&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="715" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-51" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="840" as="sourcePoint" />
+            <mxPoint x="545" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Historial completo + estadísticas&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="565" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="880" as="sourcePoint" />
+            <mxPoint x="245" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Historial fallas completo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="265" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-55" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="920" as="sourcePoint" />
+            <mxPoint x="95" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPy5_cypkf7YIvQmLGO8-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Muestra historial antes de terreno&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="110" y="890" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

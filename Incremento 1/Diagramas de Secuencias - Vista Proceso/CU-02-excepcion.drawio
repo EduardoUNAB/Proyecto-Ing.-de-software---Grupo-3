@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
+  <diagram name="Página-1" id="WISRJC-Qi5Bzs9fTrItz">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E6-c1eftS_MNorrih-He-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Jefe Técnico" vertex="1">
+          <mxGeometry height="60" width="30" x="125" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="V_AsignarOT" vertex="1">
+          <mxGeometry height="40" width="119" x="235" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_AuthGuard" vertex="1">
+          <mxGeometry height="40" width="119" x="384" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_OTController" vertex="1">
+          <mxGeometry height="40" width="146" x="533" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_PostgreSQL" vertex="1">
+          <mxGeometry height="40" width="128" x="709" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="usuario" vertex="1">
+          <mxGeometry height="40" width="83" x="867" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="850" as="sourcePoint" />
+            <mxPoint x="140" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="850" as="sourcePoint" />
+            <mxPoint x="294" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443" y="850" as="sourcePoint" />
+            <mxPoint x="443" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="850" as="sourcePoint" />
+            <mxPoint x="606" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773" y="850" as="sourcePoint" />
+            <mxPoint x="773" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="908" y="850" as="sourcePoint" />
+            <mxPoint x="908" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="390" as="sourcePoint" />
+            <mxPoint x="294" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Abre lista de técnicos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="157" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="430" as="sourcePoint" />
+            <mxPoint x="443" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Verifica JWT + rol&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="308" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="443" y="470" as="sourcePoint" />
+            <mxPoint x="294" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Autorizado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="308" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="510" as="sourcePoint" />
+            <mxPoint x="606" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;GET /ordenes/tecnicos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="460" y="492" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="550" as="sourcePoint" />
+            <mxPoint x="773" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Consulta técnicos&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="629" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773" y="590" as="sourcePoint" />
+            <mxPoint x="908" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;SELECT técnicos activos + OT del día&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="780" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="908" y="630" as="sourcePoint" />
+            <mxPoint x="773" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Sin técnicos disponibles&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="780" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773" y="670" as="sourcePoint" />
+            <mxPoint x="606" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Lista vacía&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="629" y="652" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="606" y="710" as="sourcePoint" />
+            <mxPoint x="294" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&quot;No hay técnicos disponibles&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="308" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="294" y="750" as="sourcePoint" />
+            <mxPoint x="140" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6-c1eftS_MNorrih-He-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Muestra mensaje de error&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="157" y="732" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
