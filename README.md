@@ -13,14 +13,15 @@ Sistema de **Field Service Management (FSM)** desarrollado para **FiNet Limitada
 
 ## Equipo de Desarrollo — Grupo 3
 
-| Nombre |
-|--------|
-| Chávez Fernando |
-| Cornejo Iosef |
-| Díaz Vicente |
-| Gálvez Matías |
-| Rojas Fernando |
-| Zepeda Eduardo | Jefe de grupo|
+| Nombre | Rol |
+|--------|-----|
+| Abarca Vicente | Integrante |
+| Chávez Fernando | Integrante |
+| Cornejo Iosef | Integrante |
+| Díaz Vicente | Integrante |
+| Gálvez Matías | Integrante |
+| Rojas Fernando | Integrante |
+| Zepeda Eduardo | Jefe de grupo |
 
 ---
 
@@ -39,23 +40,52 @@ Sistema de **Field Service Management (FSM)** desarrollado para **FiNet Limitada
 
 ---
 
+## Entregas
+
+| Entrega | Contenido principal |
+|---------|---------------------|
+| **Documento 0** | Análisis de la organización (FODA, Porter, Ishikawa, Pareto), levantamiento de procesos, requerimientos y casos de uso, estimación costo-beneficio, Carta Gantt y CVs del equipo |
+| **Incremento 1** | Arquitectura (diagramas de componentes y despliegue), modelo de datos (MER / MR), diagramas de secuencia, árbol de navegación, presentación y video |
+| **Incremento 2** | Diagramas de secuencia ampliados con nuevos casos de uso, árbol de navegación actualizado, planificación del sprint y presentación |
+
+---
+
 ## Estructura del Repositorio
 
 ```
 📦 Proyecto Ing. de Software - Grupo 3
 ├── 📂 Documento 0
-│   └── Grupo_N3_Documento_0.docx
+│   ├── Grupo N3 - Documento 0.docx
+│   ├── Grupo N3 - Presentación.pptx
+│   ├── 📂 Diagramas de módulos de CU        (Módulos 1 a 9 — casos de uso extendidos)
+│   ├── Análisis: FODA, Fuerza de Porter, Diagrama de Ishikawa, Diagrama Pareto
+│   ├── Operación: Organigrama, Volumen Operativo Mensual, Distribución Carga Operativa
+│   ├── Levantamiento de procesos Inicial.bpm
+│   ├── Planillas: TablaESA_UR, Matriz de Requisitos vs CU, CartaGantt_FSM,
+│   │              Estimación de costo - beneficio
+│   ├── Aceptacion_Requerimientos.png
+│   └── CVs del equipo (Cv_*.png)
 ├── 📂 Incremento 1
-│   ├── Grupo_N3_Incremento_1.docx
-│   └── 📂 Diagramas
-│       ├── Diagrama_de_clases_y_modelo_de_datos
-│       ├── Diagramas_de_secuencia
-│       ├── Diagrama_de_componentes
-│       ├── Diagrama_de_despliegue
-│       └── Arbol_de_navegacion
+│   ├── Grupo N3 - Incremento 1.docx
+│   ├── Presentación - Incremento 1.pptx
+│   ├── Presentación - Incremento 1.mp4
+│   ├── 📂 Diagramas de Secuencias - Vista Proceso
+│   ├── Diagrama de componentes.png
+│   ├── Diagrama de despliegue.png
+│   ├── MERE_Finet.png
+│   ├── MR Finet.docx
+│   ├── Árbol de navegación.png
+│   └── Grupo 3 - Organización de trabajo.xlsx
+├── 📂 Incremento 2
+│   ├── Grupo N3 - Incremento 2.docx
+│   ├── Presentación - Incremento 2.pptx
+│   ├── 📂 Diagrama de secuencia - Vista de proceso
+│   ├── Árbol de navegación actualizado.png
+│   └── Sprint Incremento 2.xlsx
 └── README.md
 ```
 
+---
 
 ## Licencia
 
