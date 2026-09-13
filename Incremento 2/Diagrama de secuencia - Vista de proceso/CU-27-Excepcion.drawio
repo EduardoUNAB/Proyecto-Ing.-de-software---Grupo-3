@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36">
+  <diagram name="Página-1" id="WISRJC-Qi5Bzs9fTrItz">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XiGNhaZIWoejg4vIO-me-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Jefe Técnico" vertex="1">
+          <mxGeometry height="60" width="30" x="170" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="V_Clientes" vertex="1">
+          <mxGeometry height="40" width="100" x="285" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_AuthGuard" vertex="1">
+          <mxGeometry height="40" width="108" x="431" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_ClienteController" vertex="1">
+          <mxGeometry height="40" width="172" x="549" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="C_PostgreSQL" vertex="1">
+          <mxGeometry height="40" width="116" x="727" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="680" as="sourcePoint" />
+            <mxPoint x="185" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="680" as="sourcePoint" />
+            <mxPoint x="335" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="680" as="sourcePoint" />
+            <mxPoint x="485" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="680" as="sourcePoint" />
+            <mxPoint x="635" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="680" as="sourcePoint" />
+            <mxPoint x="785" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="360" as="sourcePoint" />
+            <mxPoint x="335" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Ingresa RUT con digito verificador incorrecto&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="205" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="400" as="sourcePoint" />
+            <mxPoint x="485" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Verifica JWT + rol&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="355" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="440" as="sourcePoint" />
+            <mxPoint x="335" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Autorizado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="355" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="480" as="sourcePoint" />
+            <mxPoint x="635" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;POST /clientes&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="505" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="520" as="sourcePoint" />
+            <mxPoint x="785" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Valida formato RUT Módulo 11&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="655" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="785" y="560" as="sourcePoint" />
+            <mxPoint x="635" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XiGNhaZIWoejg4vIO-me-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;RUT inválido detectado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="655" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="dBvpGOkXHIuK6e1r2P3k-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="600" as="sourcePoint" />
+            <mxPoint x="340" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBvpGOkXHIuK6e1r2P3k-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&quot;RUT inválido. Verifique el número&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="350" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="dBvpGOkXHIuK6e1r2P3k-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="631.58" as="sourcePoint" />
+            <mxPoint x="180" y="631.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dBvpGOkXHIuK6e1r2P3k-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Muestra mensaje de error&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="200" y="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

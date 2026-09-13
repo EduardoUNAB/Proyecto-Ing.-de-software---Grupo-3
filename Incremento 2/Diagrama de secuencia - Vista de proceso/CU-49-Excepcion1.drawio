@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="claude">
+  <diagram name="CU-49-Excepcion1" id="cu49e1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="942" pageHeight="754" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cu49e1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontStyle=1;fontSize=16;" value="CU-49 — Excepción 1: El texto de la plantilla está vacío" vertex="1">
+          <mxGeometry height="30" width="862" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="84" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" value="V_Plantillas" vertex="1">
+          <mxGeometry height="40" width="120" x="190" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" value="C_AuthGuard" vertex="1">
+          <mxGeometry height="40" width="112" x="410" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" value="C_NotificacionesController" vertex="1">
+          <mxGeometry height="40" width="220" x="622" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="154" as="sourcePoint" />
+            <mxPoint x="75" y="694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="154" as="sourcePoint" />
+            <mxPoint x="250" y="694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="154" as="sourcePoint" />
+            <mxPoint x="466" y="694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="154" as="sourcePoint" />
+            <mxPoint x="732" y="694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="194" as="sourcePoint" />
+            <mxPoint x="250" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Guarda la plantilla sin texto" vertex="1">
+          <mxGeometry height="20" width="188.5" x="68.25" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="264" as="sourcePoint" />
+            <mxPoint x="466" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Verifica JWT + rol ADMIN" vertex="1">
+          <mxGeometry height="20" width="156" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="334" as="sourcePoint" />
+            <mxPoint x="250" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Autorizado" vertex="1">
+          <mxGeometry height="20" width="100" x="308" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="404" as="sourcePoint" />
+            <mxPoint x="732" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="PATCH /notificaciones/plantillas/:id,&amp;nbsp;Valida que el texto no esté vacío" vertex="1">
+          <mxGeometry height="20" width="234" x="374" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732" y="544" as="sourcePoint" />
+            <mxPoint x="250" y="544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="&quot;La plantilla no puede estar vacía.&quot;" vertex="1">
+          <mxGeometry height="20" width="234" x="374" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="cu49e1-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="614" as="sourcePoint" />
+            <mxPoint x="75" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cu49e1-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="Muestra mensaje de error" vertex="1">
+          <mxGeometry height="20" width="156" x="84.5" y="590" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
